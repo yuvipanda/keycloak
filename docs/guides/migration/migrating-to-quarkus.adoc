@@ -1,5 +1,5 @@
 <#import "/templates/guide.adoc" as tmpl>
-
+dddd
 <@tmpl.guide
 title="Migrating to Quarkus distribution"
 summary="Migrate to the new Quarkus distribution from the legacy WildFly distribution">
